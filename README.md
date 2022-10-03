@@ -9,6 +9,6 @@ Install Dulu :
 Cara Running :
 Buka Command Prompt / Terminal
 
-pip install selenium
-pip install openpyxl
-python input.py
+- pip install selenium
+- pip install openpyxl
+- python input.py
