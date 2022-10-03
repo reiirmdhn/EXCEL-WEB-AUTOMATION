@@ -7,7 +7,7 @@ Install Dulu :
 - pip install openpyxl
 
 Cara Running :
-/nBuka Command Prompt / Terminal
+- Buka Command Prompt / Terminal
 
 - pip install selenium
 - pip install openpyxl
